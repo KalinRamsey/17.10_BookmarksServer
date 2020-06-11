@@ -1,4 +1,4 @@
-INSERT INTO bookmarks (title, bookmarkurl, description, rating)
+INSERT INTO bookmarks (title, url, description, rating)
 VALUES
   (
     'Google',
